@@ -1,2 +1,2 @@
 # personal-site-template
-Personal site made using bootstrap.
+Static personal site made using bootstrap.
